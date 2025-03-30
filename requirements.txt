@@ -1,4 +1,4 @@
-﻿accelerate==1.4.0
+accelerate==1.4.0
 aiofiles==24.1.0
 aiohappyeyeballs==2.4.4
 aiohttp==3.11.10
@@ -64,13 +64,6 @@ frozenlist==1.5.0
 fsspec==2024.10.0
 gitdb==4.0.12
 GitPython==3.1.44
-google-ai-generativelanguage==0.6.15
-google-api-core==2.24.1
-google-api-python-client==2.160.0
-google-auth==2.38.0
-google-auth-httplib2==0.2.0
-google-generativeai==0.8.4
-googleapis-common-protos==1.67.0rc1
 greenlet==3.1.1
 grpcio==1.70.0
 grpcio-status==1.70.0
@@ -108,18 +101,9 @@ llama-index==0.12.3
 llama-index-agent-openai==0.4.0
 llama-index-cli==0.4.0
 llama-index-core>=0.12.3,<0.13.0
-llama-index-embeddings-cohere==0.4.0
-llama-index-embeddings-gemini==0.3.1
-llama-index-embeddings-huggingface==0.5.1
 llama-index-embeddings-openai>=0.3.0,<0.4.0
-llama-index-embeddings-upstage==0.2.1
 llama-index-indices-managed-llama-cloud==0.6.3
 llama-index-legacy==0.9.48.post4
-llama-index-llms-anthropic==0.6.5
-llama-index-llms-gemini==0.4.8
-llama-index-llms-huggingface==0.4.2
-llama-index-llms-huggingface-api==0.4.1
-llama-index-llms-ollama==0.5.2
 llama-index-llms-openai==0.3.2
 llama-index-multi-modal-llms-openai==0.3.0
 llama-index-program-openai==0.3.1
@@ -211,6 +195,7 @@ python-dotenv==1.0.1
 python-iso639==2025.2.18
 python-magic==0.4.27
 pytz==2024.2
+pywin32==308; platform_system == "Windows"
 PyYAML==6.0.2
 pyzmq==26.2.0
 RapidFuzz==3.12.2
