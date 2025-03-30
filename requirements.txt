@@ -180,7 +180,6 @@ pycryptodome==3.21.0
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydeck==0.9.1
-pyee==11.1.1
 Pygments==2.18.0
 pyparsing==3.2.1
 pypdf==5.1.0
