@@ -184,7 +184,6 @@ Pygments==2.18.0
 pyparsing==3.2.1
 pypdf==5.1.0
 PyPika==0.48.9
-pyppeteer==2.0.0
 pyproject_hooks==1.2.0
 pyquery==2.0.1
 pyreadline3==3.5.4
